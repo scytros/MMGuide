@@ -1,0 +1,15 @@
+D:\Projects\MMGuide\MMGuide\Question4\bin\Debug\net7.0\Question4.exe
+D:\Projects\MMGuide\MMGuide\Question4\bin\Debug\net7.0\Question4.deps.json
+D:\Projects\MMGuide\MMGuide\Question4\bin\Debug\net7.0\Question4.runtimeconfig.json
+D:\Projects\MMGuide\MMGuide\Question4\bin\Debug\net7.0\Question4.dll
+D:\Projects\MMGuide\MMGuide\Question4\bin\Debug\net7.0\Question4.pdb
+D:\Projects\MMGuide\MMGuide\Question4\obj\Debug\net7.0\Question4.csproj.AssemblyReference.cache
+D:\Projects\MMGuide\MMGuide\Question4\obj\Debug\net7.0\Question4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MMGuide\MMGuide\Question4\obj\Debug\net7.0\Question4.AssemblyInfoInputs.cache
+D:\Projects\MMGuide\MMGuide\Question4\obj\Debug\net7.0\Question4.AssemblyInfo.cs
+D:\Projects\MMGuide\MMGuide\Question4\obj\Debug\net7.0\Question4.csproj.CoreCompileInputs.cache
+D:\Projects\MMGuide\MMGuide\Question4\obj\Debug\net7.0\Question4.dll
+D:\Projects\MMGuide\MMGuide\Question4\obj\Debug\net7.0\refint\Question4.dll
+D:\Projects\MMGuide\MMGuide\Question4\obj\Debug\net7.0\Question4.pdb
+D:\Projects\MMGuide\MMGuide\Question4\obj\Debug\net7.0\Question4.genruntimeconfig.cache
+D:\Projects\MMGuide\MMGuide\Question4\obj\Debug\net7.0\ref\Question4.dll

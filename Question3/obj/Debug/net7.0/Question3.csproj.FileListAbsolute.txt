@@ -1,0 +1,15 @@
+D:\Projects\MMGuide\MMGuide\Question3\bin\Debug\net7.0\Question3.exe
+D:\Projects\MMGuide\MMGuide\Question3\bin\Debug\net7.0\Question3.deps.json
+D:\Projects\MMGuide\MMGuide\Question3\bin\Debug\net7.0\Question3.runtimeconfig.json
+D:\Projects\MMGuide\MMGuide\Question3\bin\Debug\net7.0\Question3.dll
+D:\Projects\MMGuide\MMGuide\Question3\bin\Debug\net7.0\Question3.pdb
+D:\Projects\MMGuide\MMGuide\Question3\obj\Debug\net7.0\Question3.csproj.AssemblyReference.cache
+D:\Projects\MMGuide\MMGuide\Question3\obj\Debug\net7.0\Question3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\MMGuide\MMGuide\Question3\obj\Debug\net7.0\Question3.AssemblyInfoInputs.cache
+D:\Projects\MMGuide\MMGuide\Question3\obj\Debug\net7.0\Question3.AssemblyInfo.cs
+D:\Projects\MMGuide\MMGuide\Question3\obj\Debug\net7.0\Question3.csproj.CoreCompileInputs.cache
+D:\Projects\MMGuide\MMGuide\Question3\obj\Debug\net7.0\Question3.dll
+D:\Projects\MMGuide\MMGuide\Question3\obj\Debug\net7.0\refint\Question3.dll
+D:\Projects\MMGuide\MMGuide\Question3\obj\Debug\net7.0\Question3.pdb
+D:\Projects\MMGuide\MMGuide\Question3\obj\Debug\net7.0\Question3.genruntimeconfig.cache
+D:\Projects\MMGuide\MMGuide\Question3\obj\Debug\net7.0\ref\Question3.dll
